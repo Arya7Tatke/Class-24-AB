@@ -1,2 +1,2 @@
-# Class-24-AB
-Angry Birds stage 1 on VS Code
+# angryBirdsStage1
+Stage 1 Angry Birds
